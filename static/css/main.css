@@ -1,0 +1,28 @@
+body {
+	margin: 20px;
+	font-family: sans-serif;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	justify-content-center: column;
+}
+
+h1 {
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid #000000;
+}
+
+table {
+	width: 50%;
+	align-self: center;
+	margin-bottom: 25px;
+}
+
+form {
+	align-self: center;
+}
