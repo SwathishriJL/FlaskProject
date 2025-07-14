@@ -1,10 +1,1 @@
-# Task Master
-
-Task Master is a basic CRUD (Create, Read, Update, Delete) Flask project. It's a simple todo application designed to help you manage your tasks efficiently. The primary focus of this project is on the backend functionality provided by Flask, with minimal emphasis on the frontend design.
-
-## Features
-
-- Add new tasks
-- View all tasks
-- Update existing tasks
-- Delete tasks
+My name is Nithin Srivatsan. I have completed my Bachelor's degree in Information Technology from Madras Institute of Technology, Anna University. During the summer of 2024, I completed a two-month internship at Wells Fargo under the CCIBT Line of Business (LOB), specifically within the CMT sub-LOB. During this period, I worked on a full stack project focused on cryptocurrency arbitrage trading, gaining hands-on experience in both frontend and backend development. I have also been offered a full-time employment (FTE) position along with a six-month winter internship
